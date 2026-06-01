@@ -49,7 +49,7 @@
  * String Constants
  **/
 // Firmware Version
-constexpr char PROGMEM FSTRING_VERSION[] = "V15.9";
+constexpr char PROGMEM FSTRING_VERSION[] = "V16.0";
 
 // Universal
 constexpr char PROGMEM FSTRING_RESET[] = "Reset";
